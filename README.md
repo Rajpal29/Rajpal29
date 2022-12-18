@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajpal Singh Virdee</h1>
-<h3 align="center">I am a former Data Scientist who's looking to enter into the world of Web development</h3>
+<h3 align="center">I am a former Data Scientist who's looking expand his knowledge on development tools</h3>
 <Img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **React projects**
